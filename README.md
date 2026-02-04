@@ -9,7 +9,7 @@
   
   <!-- Social Links with Purple-Pink Theme -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Aayu2810&style=for-the-badge&color=E45A92&labelColor=white" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Aayu2810&style=for-the-badge&color=E45A92&labelColor=white&base=998" alt="Profile Views">
     <a href="https://www.linkedin.com/in/aayushi-priya-24509232b"><img src="https://img.shields.io/badge/LinkedIn-0041C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:paayushi2005@gmail.com"><img src="https://img.shields.io/badge/Email-FFACAC?style=for-the-badge&logo=gmail&logoColor=5D2F77"></a>
     <a href="https://github.com/Aayu2810"><img src="https://img.shields.io/badge/GitHub-5D2F77?style=for-the-badge&logo=github&logoColor=white"></a>
